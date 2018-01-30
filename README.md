@@ -10,4 +10,6 @@ Main goals:
   * support zones.
 * Display notifications coming from the HASS server.
 * Implement native classes and views for HASS elements.
+  * Maybe reuse/merge code from the excellent [HassDroid](https://github.com/Maxr1998/home-assistant-Android) project.
 * Implement an Android TV UI for home control on the TV.
+  * Add Google Assistant support for voice control of home functions (through the app, without the standard Google Assistant integration).
